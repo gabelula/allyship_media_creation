@@ -130,8 +130,12 @@ http://geekfeminism.wikia.com/wiki/Charles%27_Rules_of_Argument Charles’ Rules
 * Slides, handout, etc https://github.com/gabelula/allyship_media_creation
 
 The Ally Skills Workshop materials are available under the Creative Commons Attribution-ShareAlike 3.0 Unported license (CC BY-SA 3.0) http://creativecommons.org/licenses/by-sa/3.0/
+
 © 2017 SRCCON https://github.com/gabelula/allyship_media_creation 
+
 © 2017 Internet Freedom Festival https://internetfreedomfestival.org/
+
 © 2016 Frame Shift Consulting http://frameshiftconsulting.com
+
 © 2011 - 2015 The Ada Initiative http://adainitiative.org
 
