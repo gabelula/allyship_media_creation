@@ -5,6 +5,6 @@ Journalism is a powerful tool. A place to show different views of the world as w
 
 Keeping our desire to fight inequality at the fore how would those skills change the reporting on the contentious issues of right now and confront systemic oppression with journalistic excellence.
 
-Link: http://schedule.srccon.org/#_session-privileges-allies-lab
+Link to the SRCCON session: http://schedule.srccon.org/#_session-privileges-allies-lab
 
-
+Notes: https://etherpad.opennews.org/p/SRCCON2017-privileges-allies-lab
